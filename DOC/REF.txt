@@ -1,0 +1,3 @@
+VXmlNode REF_ID:
+	NODE_TYPE_COMMENT:      Content ID
+	NODE_TYPE_REFERENCE:    Reference node ID

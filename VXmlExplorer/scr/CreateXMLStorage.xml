@@ -1,0 +1,12 @@
+<pn fontsize="12">
+	<row heigh="5"/>
+	<text name="size" value="32" caption="Initial XML space size(Mb)" align="right"/>
+	<text name="ext" value="32" caption="XML space auto extension(Mb)" align="right"/>
+	<row heigh="10"/>
+	<label name="lbext" caption="If you wan to use the dedicated space for content:" fontsize="14"/>
+	<row heigh="10"/>
+	<text name="contsize" value="64" caption="Initial content space size(Mb)" align="right"/>
+	<text name="context" value="64" caption="Content space autoo extension(Mb)" align="right"/>
+	<row heigh="20"/>
+	<text name="dir" value="--default--" caption="Directory for storage:" readonly="true"/>
+</pn>

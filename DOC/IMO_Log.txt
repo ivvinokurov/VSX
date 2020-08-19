@@ -1,0 +1,19 @@
+VSEngine 
+	Constructor
+	TransactionFileName (property)
+	CtlgFileName (property)
+	Open
+	VSOption (property)
+	Release
+	Create
+	Remove
+	Extend
+	AddPartition
+	Restore
+	UseIndexSpace
+VSCatalog
+	Constructor
+	Load
+VSpace
+	Attach
+	VSOption (property)

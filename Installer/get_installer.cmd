@@ -1,0 +1,2 @@
+copy C:\DATA\IVII\Soft\VS2012Projects\VSX\SetupVXML\SetupVXML\Express\SingleImage\DiskImages\DISK1\setup.exe C:\DATA\IVII\Soft\VS2012Projects\VSX\Installer\Files\Current\Installer\VXML_SETUP.exe /Y /V
+pause 

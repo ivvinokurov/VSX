@@ -1,0 +1,14 @@
+<pn fontsize="12">
+	<row heigh="5"/>
+	<ext name="type" caption="Node type"/>
+	<text name="name" value="" caption="Node name/title"/>
+	<row heigh="10"/>
+	<text name="value" caption="Node value"/>
+	<row heigh="10"/>
+	<text name="file" caption="Content file name" visible="false" readonly="true"/>
+	<text name="title" caption="Content title" visible="false"/>
+	<row heigh="40"/>
+	<ext name="select" visible="false"/>
+	<ext name="ok" />
+	<ext name="cancel" />
+</pn>

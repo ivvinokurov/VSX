@@ -1,0 +1,9 @@
+<pn fontsize="12">
+	<text name="name" caption="Space name"/>
+	<row/>
+	<text name="size" value="10" caption="Size(Mb)" align="right"/>
+	<text name="ext" value="5" caption="Extension(Mb)" align="right"/>
+	<text name="page" value="16" caption="Page size(Kb)" align="right"/>
+	<row/>
+	<text name="dir" value="--default--" caption="Directory" readonly="true"/>
+</pn>
